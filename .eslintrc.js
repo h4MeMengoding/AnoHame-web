@@ -29,6 +29,10 @@ module.exports = {
     '@typescript-eslint/no-use-before-define': 'off',
     '@typescript-eslint/no-var-requires': 'off',
     '@next/next/no-img-element': 'off',
+    "prettier/prettier": ["error", {
+      "endOfLine": "auto"
+    }
+    ],
     'no-param-reassign': 'off',
     'jsx-a11y/no-autofocus': 'off',
     'react/forbid-prop-types': 'off',
