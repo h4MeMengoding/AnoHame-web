@@ -58,7 +58,7 @@ export const TncContent = () => {
       </section>
 
       <section className="mb-4">
-        <h2 className="mb-2 text-xl font-bold">🔹 Ketentuan Privasi</h2>
+        <h2 className="mb-2 text-xl font-bold">🔹 Ketentuan Privasi ///</h2>
         <p>
           Kami menghormati privasi Anda. Pernyataan lengkap tentang{' '}
           <a href="/kebijakan-privasi/" className="underline">
