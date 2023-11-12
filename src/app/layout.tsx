@@ -65,7 +65,7 @@ export default function RootLayout({
             <main>
               <Header />
               <article className="min-h-screen">{children}</article>
-              {/* <Footer /> */}
+              <Footer />
             </main>
             <BaseDialog />
             <Toaster />
